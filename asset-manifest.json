@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Projet-Final/static/css/main.621230cf.chunk.css",
+    "main.js": "/Projet-Final/static/js/main.ff53281f.chunk.js",
+    "main.js.map": "/Projet-Final/static/js/main.ff53281f.chunk.js.map",
+    "runtime-main.js": "/Projet-Final/static/js/runtime-main.253b232c.js",
+    "runtime-main.js.map": "/Projet-Final/static/js/runtime-main.253b232c.js.map",
+    "static/js/2.4912e1af.chunk.js": "/Projet-Final/static/js/2.4912e1af.chunk.js",
+    "static/js/2.4912e1af.chunk.js.map": "/Projet-Final/static/js/2.4912e1af.chunk.js.map",
+    "index.html": "/Projet-Final/index.html",
+    "precache-manifest.24a62dff92ac718b5215df2372c77c6d.js": "/Projet-Final/precache-manifest.24a62dff92ac718b5215df2372c77c6d.js",
+    "service-worker.js": "/Projet-Final/service-worker.js",
+    "static/css/main.621230cf.chunk.css.map": "/Projet-Final/static/css/main.621230cf.chunk.css.map",
+    "static/js/2.4912e1af.chunk.js.LICENSE.txt": "/Projet-Final/static/js/2.4912e1af.chunk.js.LICENSE.txt",
+    "static/media/LOGO TRANSP.png": "/Projet-Final/static/media/LOGO TRANSP.e7cc8446.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.253b232c.js",
+    "static/js/2.4912e1af.chunk.js",
+    "static/css/main.621230cf.chunk.css",
+    "static/js/main.ff53281f.chunk.js"
+  ]
+}
