@@ -174,7 +174,12 @@ section{
     position: relative;
   }
   
-  .header-2.active{
+  .header-2 .navbar{
+    margin-left: auto;
+    margin-right: 2rem;
+}
+
+.header-2.active{
     position: fixed;
     top:0; left: 0; right:0;
     z-index: 10000;
@@ -185,8 +190,6 @@ section{
     font-size: 2rem;
     border-radius: .5rem;
     color: var(--black);
-    position: relative;
-    left: 80%;
 }
 
 .header-2 .navbar a:hover{
@@ -370,6 +373,8 @@ section{
 
     .header-2 .navbar{
         position: absolute;
+        z-index: 1000;
+        margin: 0;
         top: 100%;
         left: 0;
         right: 0;
@@ -425,6 +430,8 @@ section{
     }
 
     .logo{
-        font-size: 4rem;
+        font-size: 3rem;
+        left: 0;
+        text-align: center;
     }
 }
